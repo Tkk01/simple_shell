@@ -231,3 +231,5 @@ ssize_t get_input(info_t *);
 void clear_info(info_t *);
 void set_info(info_t *, char **);
 void free_info(info_t *, int);
+
+#endif
